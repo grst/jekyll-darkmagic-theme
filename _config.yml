@@ -1,0 +1,14 @@
+markdown: kramdown
+highlighter: rouge
+
+title: "Darkmagic test"
+description: "Some text that will appear on google..." 
+baseurl: ""
+url: ""
+github_username: grst
+
+author: "Gregor Sturm"
+address: "some, place"
+email: "mail@gregor-sturm.de"
+
+exclude: ['bootswatch', 'README.md', 'LICENSE.txt']
