@@ -11,4 +11,4 @@ author: "Gregor Sturm"
 address: "some, place"
 email: "mail@gregor-sturm.de"
 
-exclude: ['bootswatch', 'README.md', 'LICENSE.txt']
+exclude: ['bootswatch', 'README.md', 'LICENSE.txt', "Makefile", "*.gem", "Gemfile", "Gemfile.lock", "*.gemspec"]

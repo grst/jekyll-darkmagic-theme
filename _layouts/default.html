@@ -36,7 +36,7 @@
             <div class="navbar-center">
                 <div class="navbar-header">
                     <div class="root">
-                        <a class="" href="{{ site.data.locales[locale].home_path }}"><img src="/{{ BASE_PATH }}{{ ASSET_PATH }}/gregorsturm.png" alt="logo" /></a><br />
+                        <a class="" href="{{ site.data.locales[locale].home_path }}"><img src="{{ "/assets/logo.png" | prepend: site.baseurl }}" alt="logo" /></a><br />
                     </div>
                     <div class="root-caption">
                         <a href="{{ site.data.locales[locale].home_path }}">{{ site.title | downcase }}</a>
